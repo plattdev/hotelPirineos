@@ -19,6 +19,12 @@ body{
         & h1{
             font-size: 32px;
             font-weight: 900;
+
+            &:hover{
+                color:aliceblue;
+                size: 100px;
+                transition: 1s;
+            }
         }
     }
 }
